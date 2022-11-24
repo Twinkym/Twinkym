@@ -23,7 +23,7 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Twinkym&show_icons=true&theme=dracula)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/Twinkym/my-portfolio.git))
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-my-portfolio)](https://github.com/Twinkym/my-portfolio.git))
 
 <!---
 Twinkym/Twinkym is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
