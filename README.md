@@ -19,6 +19,7 @@
 - 📫 How to reach me:
 - [Linked-in](https://www.linkedin.com/in/daviddelapuente/) 
 - [Twitter](https://twitter.com/daviddelapuent5)
+- [Instagram](https://www.instagram.com/delapuente.david/)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Twinkym)](https://github.com/anuraghazra/github-readme-stats)
 
