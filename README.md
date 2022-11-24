@@ -16,7 +16,8 @@
 - 🌱 I’m currently learning Android Java with UPvalenciaX & edX, Angular with angular.io & React with Reactjs.org
 - 💞️ I’m looking to collaborate on Development projects that allow me to consolidate the knowledge acquired over the last two and a half years,
 -  and to enrich my portfolio with more than personal projects or study.
-- 📫 How to reach me you can do this via email at: Twinkymen@hotmail.com
+- 📫 How to reach me:
+- [Linked-in](https://www.linkedin.com/in/daviddelapuente/) 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Twinkym)](https://github.com/anuraghazra/github-readme-stats)
 
