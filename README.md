@@ -18,6 +18,7 @@
 -  and to enrich my portfolio with more than personal projects or study.
 - 📫 How to reach me:
 - [Linked-in](https://www.linkedin.com/in/daviddelapuente/) 
+- [Twitter](https://twitter.com/daviddelapuent5)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Twinkym)](https://github.com/anuraghazra/github-readme-stats)
 
