@@ -23,8 +23,8 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Twinkym&show_icons=true&theme=dracula)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Twinkym&repo=github-my-portfolio)](https://github.com/Twinkym/my-portfolio.git))
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Twinkym)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Twinkym&repo=my-portfolio)](https://github.com/Twinkym/my-portfolio.git))
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Twinkym&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <!---
 Twinkym/Twinkym is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
