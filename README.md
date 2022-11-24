@@ -21,10 +21,10 @@
 - [Twitter](https://twitter.com/daviddelapuent5)
 - [Instagram](https://www.instagram.com/delapuente.david/)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Twinkym&show_icons=true&theme=dracula)
-
+[![Twinkym GitHub stats](https://github-readme-stats.vercel.app/api?username=Twinkym&show_icons=true&theme=dracula&show_owner=true)
+[![Twinkym wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Twinkkym)](https://github.com/Twinkym/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Twinkym&repo=my-portfolio)](https://github.com/Twinkym/my-portfolio.git))
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Twinkym&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Twinkym&layout=compact&langs_count=10)](https://github.com/Twinkym/github-readme-stats)
 <!---
 Twinkym/Twinkym is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
