@@ -21,7 +21,7 @@
 - [Twitter](https://twitter.com/daviddelapuent5)
 - [Instagram](https://www.instagram.com/delapuente.david/)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Twinkym)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Twinkym&show_icons=true&theme=dracula)
 
 <!---
 Twinkym/Twinkym is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
