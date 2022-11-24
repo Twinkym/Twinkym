@@ -18,7 +18,7 @@
 -  and to enrich my portfolio with more than personal projects or study.
 - 📫 How to reach me you can do this via email at: Twinkymen@hotmail.com
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?Twinkym=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Twinkym)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 Twinkym/Twinkym is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
