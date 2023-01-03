@@ -21,7 +21,7 @@
 - [Twitter](https://twitter.com/daviddelapuent5)
 - [Instagram](https://www.instagram.com/delapuente.david/)
 - <picture>
- <source media="(prefers-color-scheme: dark)" srcset="YOUR-DARKMODE-IMAGE">
+ <source media="(prefers-color-scheme: dark)" srcset="[YOUR-DARKMODE-IMAGE](https://avatars.githubusercontent.com/u/73356704?s=96&v=4)">
  <source media="(prefers-color-scheme: light)" srcset="YOUR-LIGHTMODE-IMAGE">
  <img alt="YOUR-ALT-TEXT" src="https://avatars.githubusercontent.com/u/98397165?s=400&u=aec4f763cf5215a24edb9bfd0e423adaf882c4dc&v=4">
 </picture>
