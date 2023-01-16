@@ -26,9 +26,11 @@
  <img alt="YOUR-ALT-TEXT" src="https://avatars.githubusercontent.com/u/98397165?s=400&u=aec4f763cf5215a24edb9bfd0e423adaf882c4dc&v=4">
 </picture>
 
-[![Twinkym GitHub stats](https://github-readme-stats.vercel.app/api?username=Twinkym&show_icons=true&theme=dracula&show_owner=true)
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
+
+[![Twinkym GitHub stats](https://github-readme-stats.vercel.app/api?username=Twinkym&show_icons=true&theme=dracula&show_owner=true)
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Twinkym&repo=my-portfolio)](https://github.com/Twinkym/my-portfolio.git))
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Twinkym&layout=compact&langs_count=10)](https://github.com/Twinkym/github-readme-stats)
 <!---
