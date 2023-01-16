@@ -27,6 +27,14 @@
 </picture>
 
 <!--START_SECTION:waka-->
+
+```text
+Kotlin   4 hrs 8 mins    █████████████████████████   99.84 %
+Gradle   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 %
+Java     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+HTML     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+```
+
 <!--END_SECTION:waka-->
 
 [![Twinkym GitHub stats](https://github-readme-stats.vercel.app/api?username=Twinkym&show_icons=true&theme=dracula&show_owner=true)
