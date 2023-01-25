@@ -37,6 +37,7 @@ Git      0 secs          ░░░░░░░░░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 [![Twinkym GitHub stats](https://github-readme-stats.vercel.app/api?username=Twinkym&show_icons=true&theme=dracula&show_owner=true)
+[![wakatime](https://wakatime.com/badge/github/Twinkym/AgruparAlumnos.svg)](https://wakatime.com/badge/github/Twinkym/AgruparAlumnos)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Twinkym&repo=my-portfolio)](https://github.com/Twinkym/my-portfolio.git))
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Twinkym&layout=compact&langs_count=10)](https://github.com/Twinkym/github-readme-stats)
