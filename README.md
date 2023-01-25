@@ -24,6 +24,7 @@
  <source media="(prefers-color-scheme: dark)" srcset="[YOUR-DARKMODE-IMAGE](https://avatars.githubusercontent.com/u/73356704?s=96&v=4)">
  <source media="(prefers-color-scheme: light)" srcset="[YOUR-LIGHTMODE-IMAGE](https://avatars.githubusercontent.com/u/73356704?s=96&v=4)">
  <img alt="YOUR-ALT-TEXT" src="https://avatars.githubusercontent.com/u/98397165?s=400&u=aec4f763cf5215a24edb9bfd0e423adaf882c4dc&v=4">
+ <a href="https://wakatime.com/badge/github/Twinkym/Calculadora"><img src="https://wakatime.com/badge/github/Twinkym/Calculadora.svg" alt="wakatime"></a>
 </picture>
 
 <!--START_SECTION:waka-->
@@ -39,7 +40,7 @@ Git      0 secs          ░░░░░░░░░░░░░░░░░░�
 [![Twinkym GitHub stats](https://github-readme-stats.vercel.app/api?username=Twinkym&show_icons=true&theme=dracula&show_owner=true)
 [![wakatime](https://wakatime.com/badge/github/Twinkym/AgruparAlumnos.svg)](https://wakatime.com/badge/github/Twinkym/AgruparAlumnos)
 [![wakatime](https://wakatime.com/badge/github/Twinkym/angular-my-store.svg)](https://wakatime.com/badge/github/Twinkym/angular-my-store)
-https://wakatime.com/badge/github/Twinkym/Calculadora.svg
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Twinkym&repo=my-portfolio)](https://github.com/Twinkym/my-portfolio.git))
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Twinkym&layout=compact&langs_count=10)](https://github.com/Twinkym/github-readme-stats)
 <!---
