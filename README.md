@@ -36,12 +36,12 @@ Java   3 hrs 7 mins    ███████████████████
 <!--END_SECTION:waka-->
 
 [![Twinkym GitHub stats](https://github-readme-stats.vercel.app/api?username=Twinkym&show_icons=true&theme=dracula&show_owner=true)
-https://wakatime.com/badge/user/a53fdf97-b0be-4407-85af-2a2314c3afa3.svg
 <!--[![wakatime](https://wakatime.com/badge/github/Twinkym/AgruparAlumnos.svg)](https://wakatime.com/badge/github/Twinkym/AgruparAlumnos)-->
 [![wakatime](https://wakatime.com/badge/github/Twinkym/angular-my-store.svg)](https://wakatime.com/badge/github/Twinkym/angular-my-store)
 <a href="https://wakatime.com/badge/github/Twinkym/Calculadora"><img src="https://wakatime.com/badge/github/Twinkym/Calculadora.svg" alt="wakatime"></a>
 <!--[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Twinkym&repo=my-portfolio)](https://github.com/Twinkym/my-portfolio.git)-->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Twinkym&layout=compact&langs_count=10)](https://github.com/Twinkym/github-readme-stats)
+<a href="https://wakatime.com/@a53fdf97-b0be-4407-85af-2a2314c3afa3"><img src="https://wakatime.com/badge/user/a53fdf97-b0be-4407-85af-2a2314c3afa3.svg" alt="Total time coded since Nov 24 2022" /></a>
 <!---
 Twinkym/Twinkym is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
