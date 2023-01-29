@@ -36,7 +36,7 @@ Java   3 hrs 7 mins    ███████████████████
 <!--END_SECTION:waka-->
 
 [![Twinkym GitHub stats](https://github-readme-stats.vercel.app/api?username=Twinkym&show_icons=true&theme=dracula&show_owner=true)
-[![wakatime](https://wakatime.com/badge/github/Twinkym/AgruparAlumnos.svg)](https://wakatime.com/badge/github/Twinkym/AgruparAlumnos)
+<!--[![wakatime](https://wakatime.com/badge/github/Twinkym/AgruparAlumnos.svg)](https://wakatime.com/badge/github/Twinkym/AgruparAlumnos)-->
 [![wakatime](https://wakatime.com/badge/github/Twinkym/angular-my-store.svg)](https://wakatime.com/badge/github/Twinkym/angular-my-store)
 <a href="https://wakatime.com/badge/github/Twinkym/Calculadora"><img src="https://wakatime.com/badge/github/Twinkym/Calculadora.svg" alt="wakatime"></a>
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Twinkym&repo=my-portfolio)](https://github.com/Twinkym/my-portfolio.git)
