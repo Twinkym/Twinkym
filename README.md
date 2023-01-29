@@ -39,7 +39,7 @@ Java   3 hrs 7 mins    ███████████████████
 <!--[![wakatime](https://wakatime.com/badge/github/Twinkym/AgruparAlumnos.svg)](https://wakatime.com/badge/github/Twinkym/AgruparAlumnos)-->
 [![wakatime](https://wakatime.com/badge/github/Twinkym/angular-my-store.svg)](https://wakatime.com/badge/github/Twinkym/angular-my-store)
 <a href="https://wakatime.com/badge/github/Twinkym/Calculadora"><img src="https://wakatime.com/badge/github/Twinkym/Calculadora.svg" alt="wakatime"></a>
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Twinkym&repo=my-portfolio)](https://github.com/Twinkym/my-portfolio.git)
+<!--[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Twinkym&repo=my-portfolio)](https://github.com/Twinkym/my-portfolio.git)-->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Twinkym&layout=compact&langs_count=10)](https://github.com/Twinkym/github-readme-stats)
 <!---
 Twinkym/Twinkym is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
