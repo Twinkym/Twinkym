@@ -32,7 +32,9 @@
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+EJS     2 mins          ████████████████████▒░░░░   80.98 %
+JSON    0 secs          ███▓░░░░░░░░░░░░░░░░░░░░░   14.76 %
+Other   0 secs          █░░░░░░░░░░░░░░░░░░░░░░░░   04.27 %
 ```
 
 <!--END_SECTION:waka-->
