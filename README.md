@@ -32,9 +32,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-CSS     2 hrs 20 mins   ███████████████▒░░░░░░░░░   61.50 %
-HTML    1 hr 18 mins    ████████▓░░░░░░░░░░░░░░░░   34.43 %
-Other   9 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.07 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
