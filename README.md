@@ -1,3 +1,5 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com/?Hey!!%20I'm%20David%20De%20La%20Puente=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
+
 - 👋 Hi, I’m @Twinkym
 - 👀 I’m interested in Java, C#, JS, TS, HTML, CSS, Python, Kotlin, Unity, Animations, Data, Sql, Query;
 -  in fact I'm focused in all things about dev. I love dev, solve challenges, find new ways to do the same 
