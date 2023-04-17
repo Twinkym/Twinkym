@@ -33,7 +33,7 @@
  
 </picture>
 
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=Twinkym&theme=onedark)](https://github.com/Twinkym/github-profile-trophy)
 <!--START_SECTION:waka-->
 
 ```text
