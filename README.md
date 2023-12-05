@@ -37,10 +37,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Razor   3 hrs 12 mins   ██████████████████░░░░░░░   71.48 %
-CSS     55 mins         █████░░░░░░░░░░░░░░░░░░░░   20.41 %
-HTML    12 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.56 %
-JSON    9 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.54 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
