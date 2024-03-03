@@ -37,11 +37,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-XSLT         1 hr 19 mins    ████████░░░░░░░░░░░░░░░░░   31.55 %
-CSHTML       41 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.28 %
-Other        38 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   15.24 %
-C#           31 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   12.67 %
-HTML         20 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.15 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
