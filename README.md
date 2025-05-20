@@ -37,10 +37,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Java              1 hr 54 mins    ██████████████████▓░░░░░░   74.65 %
-Markdown          26 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.44 %
-Java Properties   9 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.39 %
-Properties        2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.52 %
+Java              2 hrs 14 mins   ██████████████████▒░░░░░░   72.99 %
+Markdown          26 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.56 %
+Java Properties   9 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.33 %
+HTML              9 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.32 %
+Properties        2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.27 %
 ```
 
 <!--END_SECTION:waka-->
