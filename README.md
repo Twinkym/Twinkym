@@ -37,11 +37,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-C#                                 2 hrs 26 mins   ████████░░░░░░░░░░░░░░░░░   32.50 %
-JSON                               1 hr 18 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.40 %
-Markdown                           1 hr 10 mins    ████░░░░░░░░░░░░░░░░░░░░░   15.59 %
-TypeScript                         42 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.38 %
-Git Config                         34 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.62 %
+C#                                 2 hrs 26 mins   ██████████████████░░░░░░░   72.58 %
+Git Config                         34 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.01 %
+Markdown                           16 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.97 %
+Microsoft Visual Studio Solution   4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.35 %
+JSON                               0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
 ```
 
 <!--END_SECTION:waka-->
