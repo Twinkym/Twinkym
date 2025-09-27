@@ -37,11 +37,8 @@
 <!--START_SECTION:waka-->
 
 ```txt
-JavaScript                         4 hrs 13 mins   ██████████████░░░░░░░░░░░   55.43 %
-C#                                 2 hrs 26 mins   ████████░░░░░░░░░░░░░░░░░   32.06 %
-Git Config                         34 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.52 %
-Markdown                           16 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.52 %
-Microsoft Visual Studio Solution   4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.04 %
+JavaScript   4 hrs 13 mins   ████████████████████████▓   99.29 %
+Bash         1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.71 %
 ```
 
 <!--END_SECTION:waka-->
