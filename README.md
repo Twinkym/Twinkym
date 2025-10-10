@@ -37,9 +37,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-PHP          29 mins         █████████████▒░░░░░░░░░░░   53.94 %
-Bash         24 mins         ███████████▒░░░░░░░░░░░░░   45.42 %
-JavaScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
