@@ -44,6 +44,9 @@ Properties        12 mins         ▒░░░░░░░░░░░░░░�
 ```
 
 <!--END_SECTION:waka-->
+<!-- START_SECTION:roadmap-->
+[![roadmap.sh](https://roadmap.sh/card/tall/69119aabce70eef65bebf579?variant=dark)](https://roadmap.sh)
+<!-- END_SECTION:roadmap-->
 
 [![Twinkym GitHub stats](https://github-readme-stats.vercel.app/api?username=Twinkym&show_icons=true&theme=dracula&show_owner=true)
 <!--[![wakatime](https://wakatime.com/badge/github/Twinkym/AgruparAlumnos.svg)](https://wakatime.com/badge/github/Twinkym/AgruparAlumnos)-->
