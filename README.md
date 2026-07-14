@@ -37,10 +37,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Python             1 hr 53 mins          ██████████████████▒░░░░░░   72.92 %
-GitIgnore file     29 mins               ████▓░░░░░░░░░░░░░░░░░░░░   18.91 %
-Text               10 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   06.95 %
-Requirements.txt   1 min                 ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.22 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
