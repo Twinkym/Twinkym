@@ -21,6 +21,8 @@
 - [Linked-in](https://www.linkedin.com/in/daviddelapuente/) 
 - [Twitter](https://twitter.com/daviddelapuent5)
 - [Instagram](https://www.instagram.com/delapuente.david/)
+
+  
 - <a href="https://wakatime.com/@a53fdf97-b0be-4407-85af-2a2314c3afa3"><img src="https://wakatime.com/badge/user/a53fdf97-b0be-4407-85af-2a2314c3afa3.svg" alt="Total time coded since Nov 24 2022" /></a>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Twinkym&theme=monokai&background=45%2CBEFFEC%2C64BADF)](https://git.io/streak-stats)
