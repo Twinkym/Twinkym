@@ -35,10 +35,8 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Twinkym&theme=onedark)](https://github.com/Twinkym/github-profile-trophy)
 <!--START_SECTION:waka-->
+**🕐 Total Coding Time**: 0 mins
 
-```txt
-No activity tracked
-```
 
 <!--END_SECTION:waka-->
 <!-- START_SECTION:roadmap-->
