@@ -3,7 +3,6 @@ name: Update WakaTime Stats
 on:
   workflow_dispatch:
   schedule:
-    # Update the profile once a day
     - cron: "0 0 * * *"
 
 permissions:
