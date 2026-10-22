@@ -73,8 +73,7 @@ PORTFOLIOKIRGO                 ████████████████�
 <!--[![wakatime](https://wakatime.com/badge/github/Twinkym/AgruparAlumnos.svg)](https://wakatime.com/badge/github/Twinkym/AgruparAlumnos)-->
 [![wakatime](https://wakatime.com/badge/github/Twinkym/angular-my-store.svg)](https://wakatime.com/badge/github/Twinkym/angular-my-store)
 <!--[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Twinkym&repo=my-portfolio)](https://github.com/Twinkym/my-portfolio.git)-->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Twinkym&layout=compact&langs_count=10)](https://github.com/Twinkym/github-readme-stats)](https://gtihub.com/Twinkyme/github-readme-stats)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Twinkym&layout=compact&langs_count=10)](https://github.com/Twinkym/github-readme-stats)]
 <!-- BEGIN YOUTUBE-CARDS -->
 <!-- END YOUTUBE-CARDS -->
 <!-- <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=Twinkym.Twinkym&left_color=darkslateblue" /> -->
