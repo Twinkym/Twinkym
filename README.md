@@ -37,21 +37,21 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Twinkym&theme=onedark)](https://github.com/Twinkym/github-profile-trophy)
 <!--START_SECTION:waka-->
-**🕐 Total Coding Time**: 2 hrs 50 mins
+**🕐 Total Coding Time**: 9 hrs 35 mins
 
 **💻 Programming Languages**:
 ```text
-SCSS            ████████████░░░░░░░░░░░░░ 49.32% 1 hr 24 mins
-HTML            ███████████░░░░░░░░░░░░░░ 43.68% 1 hr 14 mins
-YAML            █░░░░░░░░░░░░░░░░░░░░░░░░  4.67% 7 mins
-JavaScript      █░░░░░░░░░░░░░░░░░░░░░░░░  2.04% 3 mins
-CSS             ░░░░░░░░░░░░░░░░░░░░░░░░░  0.29% 0 secs
+JavaScript      ██████████░░░░░░░░░░░░░░░ 41.03% 3 hrs 57 mins
+HTML            ██████████░░░░░░░░░░░░░░░ 40.15% 3 hrs 52 mins
+SCSS            ████░░░░░░░░░░░░░░░░░░░░░ 17.02% 1 hr 38 mins
+YAML            ░░░░░░░░░░░░░░░░░░░░░░░░░  1.38% 7 mins
+Other           ░░░░░░░░░░░░░░░░░░░░░░░░░  0.42% 2 mins
 ```
 
 **🛠️ Editors**:
 ```text
-VS Code         █████████████████████████ 99.83%
-Copilot CLI     ░░░░░░░░░░░░░░░░░░░░░░░░░  0.17%
+VS Code         █████████████████████████ 99.95%
+Copilot CLI     ░░░░░░░░░░░░░░░░░░░░░░░░░  0.05%
 ```
 
 **💻 Operating Systems**:
