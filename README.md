@@ -37,21 +37,16 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Twinkym&theme=onedark)](https://github.com/Twinkym/github-profile-trophy)
 <!--START_SECTION:waka-->
-**🕐 Total Coding Time**: 3 hrs 48 mins
+**🕐 Total Coding Time**: 36 mins
 
 **💻 Programming Languages**:
 ```text
-SCSS            ████████░░░░░░░░░░░░░░░░░ 31.41% 1 hr 11 mins
-HTML            ████████░░░░░░░░░░░░░░░░░ 30.81% 1 hr 10 mins
-JavaScript      █████░░░░░░░░░░░░░░░░░░░░ 20.68% 47 mins
-JSON            ████░░░░░░░░░░░░░░░░░░░░░ 16.05% 36 mins
-CSS             ░░░░░░░░░░░░░░░░░░░░░░░░░  1.05% 2 mins
+JSON            █████████████████████████ 100.00% 36 mins
 ```
 
 **🛠️ Editors**:
 ```text
-VS Code         █████████████████████████ 99.87%
-Copilot CLI     ░░░░░░░░░░░░░░░░░░░░░░░░░  0.13%
+VS Code         █████████████████████████ 100.00%
 ```
 
 **💻 Operating Systems**:
@@ -61,8 +56,7 @@ Windows         █████████████████████�
 
 **📂 Projects**:
 ```text
-PORTFOLIOKIRGO                 █████████████████████░░░░ 83.95%
-Unknown Project                ████░░░░░░░░░░░░░░░░░░░░░ 16.05%
+Unknown Project                █████████████████████████ 100.00%
 ```
 
 <!--END_SECTION:waka-->
