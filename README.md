@@ -37,11 +37,11 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Twinkym&theme=onedark)](https://github.com/Twinkym/github-profile-trophy)
 <!--START_SECTION:waka-->
-**🕐 Total Coding Time**: 36 mins
+**🕐 Total Coding Time**: 17 mins
 
 **💻 Programming Languages**:
 ```text
-JSON            █████████████████████████ 100.00% 36 mins
+JSON            █████████████████████████ 100.00% 17 mins
 ```
 
 **🛠️ Editors**:
