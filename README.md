@@ -37,8 +37,29 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Twinkym&theme=onedark)](https://github.com/Twinkym/github-profile-trophy)
 <!--START_SECTION:waka-->
-**🕐 Total Coding Time**: 0 mins
+**🕐 Total Coding Time**: 45 mins
 
+**💻 Programming Languages**:
+```text
+PHP             █████████████████████░░░░ 84.59% 38 mins
+HTML            ███░░░░░░░░░░░░░░░░░░░░░░ 10.27% 4 mins
+Markdown        █░░░░░░░░░░░░░░░░░░░░░░░░  5.14% 2 mins
+```
+
+**🛠️ Editors**:
+```text
+VS Code         █████████████████████████ 100.00%
+```
+
+**💻 Operating Systems**:
+```text
+Windows         █████████████████████████ 100.00%
+```
+
+**📂 Projects**:
+```text
+ENTORNO SERVIDOR               █████████████████████████ 100.00%
+```
 
 <!--END_SECTION:waka-->
 <!-- START_SECTION:roadmap-->
